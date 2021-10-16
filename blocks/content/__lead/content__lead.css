@@ -1,0 +1,27 @@
+.content__lead {
+  margin-top: 48px;
+}
+
+@media screen and (min-width: 320px) {
+  .content__lead {
+    margin-top: 48px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .content__lead {
+    margin-top: 48px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .content__lead {
+    margin-top: 48px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .content__lead {
+    margin-top: 48px;
+  }
+}

@@ -1,0 +1,30 @@
+.footer__link {
+  margin: 0 0 32px;
+  padding: 0;
+  text-decoration: none;
+  color: #fff;
+  font-family: Inter, Arial, sans-serif;
+  font-size: 24px;
+  line-height: 1;
+  font-weight: normal;
+  transition: opacity .2s linear 0s;
+}
+
+.footer__link:last-of-type {
+  margin-bottom: 0;
+}
+
+.footer__link:hover {
+  opacity: .8;
+}
+
+@media screen and (min-width: 600px) {
+  .footer__link {
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 16px;
+    line-height: 1.1;
+    margin-right: 18px;
+    margin-bottom: 0;
+  }
+}
