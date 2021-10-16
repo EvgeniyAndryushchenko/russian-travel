@@ -9,3 +9,11 @@
   line-height: 1.2;
   color: #fff;
 }
+
+@media screen and (min-width: 768px) {
+  .lead__subtitle {
+    margin-bottom: 54px;
+    width: 80%;
+    font-size: 30px;
+  }
+}

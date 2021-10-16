@@ -1,19 +1,11 @@
 .page__header {
-  margin: 0 5%;
-}
-
-
-@media screen and (min-width: 320px) {
-  .page__header {
-    margin: 0 5%;
-    padding: 5% 0 0;
-  }
+  margin: 16px 16px 0;
+  width: auto;
 }
 
 @media screen and (min-width: 768px) {
   .page__header {
-    margin: 0 48px;
-    padding: 28px 0 0;
+    margin: 28px 24px 0;
   }
 }
 
