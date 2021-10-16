@@ -2,6 +2,10 @@
 
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
+@import url(../fonts/Inter-Regular/Inter-Regular.css);
+@import url(../fonts/Inter-Black/Inter-Black.css);
+@import url(../fonts/Inter-Bold/Inter-Bold.css);
+
 
 /* Шапка сайта */
 
@@ -28,6 +32,8 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list-text/intro__list-text.css);
+@import url(../blocks/intro/__digits/intro__digits.css);
 
 /* Галерея */
 

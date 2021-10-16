@@ -5,9 +5,12 @@
   padding: 0 0 16px;
   text-align: center;
   font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 900;
   font-size: 32px;
+  line-height: 35px;
+
   line-height: 1.1;
-  font-weight: bold;
   color: #fff;
   z-index: 1;
 }
