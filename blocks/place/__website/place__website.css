@@ -8,12 +8,6 @@
   .place__website {
     width: 100%;
     align-self: end;
-    padding-bottom: 3px;
-  }
-}
-
-@media screen and (min-width: 600px) {
-  .place__website {
     padding-bottom: 0;
   }
 }

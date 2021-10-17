@@ -7,38 +7,5 @@
   .page {
     width: 100%;
     margin: 0 auto;
-    background: #2A2C2F;
-  }
-}
-
-@media screen and (min-width: 340px) {
-  .page {
-    width: 100%;
-    margin: 0 auto;
-    background: #2A2C2F;
-  }
-}
-
-@media screen and (min-width: 768px) {
-  .page {
-    width: 100%;
-    margin: 0 auto;
-    background-color: green;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .page {
-    min-width: 100%;
-    margin: 0 auto;
-    background-color: yellowgreen;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .page {
-    width: 100%;
-    margin: 0 auto;
-    background-color: rgb(214, 214, 130);
   }
 }

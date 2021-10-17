@@ -8,3 +8,9 @@
   letter-spacing: 2px;
   margin: 0 0 12px;
 }
+
+@media screen and (min-width: 1024px) {
+  .place__url-heading {
+    margin-bottom: 8px;
+  }
+}

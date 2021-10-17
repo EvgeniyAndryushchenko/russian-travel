@@ -16,6 +16,6 @@
 
 @media screen and (min-width: 1024px) {
   .grid__items {
-    gap: 12px 16px;
+    gap: 11px 16px;
   }
 }
