@@ -16,7 +16,7 @@
   .places__list {
     margin-left: 24px;
     margin-right: 24px;
-    gap: 73px;
+    gap: 75px;
   }
 }
 
@@ -24,12 +24,21 @@
   .places__list {
     margin-left: 48px;
     margin-right: 48px;
-    gap: 80px;
+    gap: 81px;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .places__list {
+    width: 984px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .places__list {
+    width: auto;
     margin-left: 148px;
     margin-right: 148px;
   }
