@@ -39,9 +39,9 @@
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/content/__photo-grid/content__photo-grid.css);
-@import url(../blocks/photo-grid/__items/grid__items.css);
-@import url(../blocks/photo-grid/__item/grid__item.css);
-@import url(../blocks/photo-grid/__image/grid__image.css);
+@import url(../blocks/photo-grid/__items/photo-grid__items.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__image/photo-grid__image.css);
 
 /* Места */
 
