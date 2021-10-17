@@ -4,9 +4,10 @@
   text-decoration: none;
   color: #fff;
   font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
   font-size: 24px;
   line-height: 1;
-  font-weight: normal;
   transition: opacity .2s linear 0s;
 }
 
@@ -24,7 +25,8 @@
     justify-content: space-between;
     font-size: 16px;
     line-height: 1.1;
-    margin-right: 18px;
+    margin-right: 19px;
     margin-bottom: 0;
+    padding-bottom: 24px;
   }
 }

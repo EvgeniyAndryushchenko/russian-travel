@@ -1,3 +1,15 @@
 .page__footer {
   margin: 64px 5% 0;
 }
+
+@media screen and (min-width: 600px) {
+  .page__footer {
+    margin: 90px 24px 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .page__footer {
+    margin: 94px 48px 0;
+  }
+}

@@ -2,3 +2,17 @@
   background-color: #000;
   width: 100%;
 }
+
+@media screen and (min-width: 928px) {
+  .lead__image {
+    width: 928px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__image {
+    width: 984px;
+    margin: 0 auto;
+  }
+}
