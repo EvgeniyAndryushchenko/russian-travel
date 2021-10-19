@@ -1,11 +1,10 @@
 /* Общие стили */
 
 @import url(../vendor/normalize.css);
-@import url(../blocks/page/page.css);
 @import url(../fonts/Inter-Regular/Inter-Regular.css);
 @import url(../fonts/Inter-Black/Inter-Black.css);
 @import url(../fonts/Inter-Bold/Inter-Bold.css);
-
+@import url(../blocks/page/page.css);
 
 /* Шапка сайта */
 
@@ -13,6 +12,7 @@
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__lang-item/header__lang-item.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_selected/header__lang-link_selected.css);
 
@@ -22,8 +22,9 @@
 @import url(../blocks/content/__lead/content__lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
-@import url(../blocks/lead/__image/lead__image.css);
-@import url(../blocks/lead/__caption/lead__caption.css);
+@import url(../blocks/lead/__figure/lead__figure.css);
+@import url(../blocks/lead/__figure-image/lead__figure-image.css);
+@import url(../blocks/lead/__figure-caption/lead__figure-caption.css);
 
 /* Интро */
 
@@ -69,6 +70,8 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/page/__footer/page__footer.css);
 @import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__item/footer__item.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__author/footer__author.css);
 

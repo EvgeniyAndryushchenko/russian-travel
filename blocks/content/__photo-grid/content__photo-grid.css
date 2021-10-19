@@ -13,3 +13,10 @@
     margin: 92px 48px 0;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .content__photo-grid {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

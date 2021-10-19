@@ -1,5 +1,5 @@
-.lead__caption {
-  margin: 8px 5% 0;
+.lead__figure-caption {
+  margin: 5px 5% 0;
   padding: 0;
   font-family: Inter, Arial, sans-serif;
   font-size: 10px;
@@ -12,20 +12,12 @@
 }
 
 @media screen and (min-width: 768px) {
-  .lead__caption {
+  .lead__figure-caption {
     margin-left: 24px;
   }
 }
 @media screen and (min-width: 950px) {
-  .lead__caption {
-    width: 928px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .lead__caption {
-    width: 984px;
+  .lead__figure-caption {
+    margin-left: 0;
   }
 }
